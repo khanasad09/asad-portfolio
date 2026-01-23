@@ -222,9 +222,7 @@ function HomePage() {
           <Card className="border border-slate-200/70 bg-white/80 backdrop-blur shadow-sm hover:shadow-md transition-all hover:-translate-y-0.5">
             <CardContent className="p-6">
               <h3 className="font-semibold mb-2">Exec-ready communication</h3>
-              <p className="mb-2 text-slate-700">
-                Convert detailed delivery inputs into concise updates that drive decisions, not meetings.
-              </p>
+              <p className="mb-2 text-slate-700">Convert detailed delivery inputs into concise updates that drive decisions, not meetings.</p>
               <p className="text-sm text-slate-600">
                 Example: Produce a 1-page summary with status, decisions needed, financial implications, and next milestones.
               </p>
@@ -310,8 +308,7 @@ function HomePage() {
               <div>
                 <h4 className="text-sm font-semibold text-slate-800 mb-2">Problem</h4>
                 <p className="text-slate-700">
-                  Frequent downstream changes and tight release windows increased incident risk and slowed delivery across the
-                  platform.
+                  Frequent downstream changes and tight release windows increased incident risk and slowed delivery across the platform.
                 </p>
               </div>
 
@@ -327,8 +324,7 @@ function HomePage() {
               <div>
                 <h4 className="text-sm font-semibold text-slate-800 mb-2">Decision</h4>
                 <p className="text-slate-700">
-                  Implemented API-first integration patterns and SAP CPI-based mediation, enforcing clean-core standards and
-                  reducing point-to-point coupling.
+                  Implemented API-first integration patterns and SAP CPI-based mediation, enforcing clean-core standards and reducing point-to-point coupling.
                 </p>
               </div>
 
@@ -473,7 +469,6 @@ function ExperiencePage({
 }
 
 function runSelfTests(data: { experience: ExperienceItem[]; education: EducationItem[]; additional: string[] }) {
-  // Lightweight sanity tests (non-blocking) to prevent regressions.
   try {
     console.assert(Array.isArray(data.experience) && data.experience.length >= 3, "Expected at least 3 experience items");
     console.assert(Array.isArray(data.education) && data.education.length >= 3, "Expected at least 3 education/cert items");
@@ -551,10 +546,7 @@ export default function Portfolio() {
       { title: "SAP Certified Development Associate – ABAP NetWeaver 7.0", org: "SAP, Germany", year: "2011" },
     ];
 
-    const additional: string[] = [
-      "Canadian PR",
-      "Languages: English (Fluent), French (Beginner), Hindi (Fluent)",
-    ];
+    const additional: string[] = ["Canadian PR", "Languages: English (Fluent), French (Beginner), Hindi (Fluent)"];
 
     return { experience, education, additional };
   }, []);
