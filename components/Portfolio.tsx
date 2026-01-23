@@ -137,8 +137,8 @@ function HomePage() {
       {/* What I've shipped */}
       <section className="mb-14">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-          <Metric value="12+" label="Years shipping" />
-          <Metric value="$5M+" label="Programs owned" />
+          <Metric value="12+" label="Years Experience" />
+          <Metric value="$5M+" label="Program Budgets" />
           <Metric value="99.95%" label="Platform uptime" />
           <Metric value="20" label="Sev-1 launches" />
         </div>
