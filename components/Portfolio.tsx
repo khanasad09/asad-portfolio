@@ -119,8 +119,8 @@ function HomePage() {
           </div>
 
           <h1 className="text-5xl md:text-6xl font-bold leading-tight tracking-tight text-slate-900">
-            I bring a rare dual perspective from both technology consulting and in-house product delivery, enabling rapid adaptability and strong judgment across diverse operating models.
-          </h1>
+            I bring a rare dual perspective from both technology consulting and in-house product delivery.
+	  </h1>
 
           <p className="text-xl text-slate-700 max-w-4xl">
             Senior Technical Program Manager with 12+ years building and running projects for product platforms, cloud
