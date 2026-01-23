@@ -140,7 +140,7 @@ function HomePage() {
           <Metric value="12+" label="Years shipping" />
           <Metric value="$5M+" label="Programs owned" />
           <Metric value="99.95%" label="Platform uptime" />
-          <Metric value="0" label="Sev-1 launches" />
+          <Metric value="20" label="Sev-1 launches" />
         </div>
       </section>
 
