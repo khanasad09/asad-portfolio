@@ -258,6 +258,41 @@ function HomePage() {
           <Pill>Outcome-first · Product-minded</Pill>
         </div>
 
+<Card className="border border-blue-200 bg-white/80 backdrop-blur shadow-sm hover:shadow-md transition-all hover:-translate-y-0.5">
+  <CardContent className="p-6 space-y-3">
+    <div className="flex flex-wrap items-center gap-2 text-xs text-blue-700 font-medium">
+      <span>Enterprise ERP</span>
+      <span>•</span>
+      <span>Regulated Environment</span>
+      <span>•</span>
+      <span>$5M Program</span>
+    </div>
+
+    <h3 className="font-semibold text-lg">
+      Cipla USA – Multi-Entity SAP S/4HANA Implementation
+    </h3>
+
+    <p className="text-slate-700">
+      Led a $5M SAP implementation program across three Cipla US entities—a regulated manufacturing plant, a
+      government subsidiary, and the US head office—delivering a unified, compliant ERP platform under FDA,
+      SOX, GRC, and CSV requirements.
+    </p>
+
+    <ul className="list-disc pl-5 space-y-1 text-slate-700">
+      <li>Program Manager for a 50-person cross-functional team spanning IT, Finance, Supply Chain, Quality, and Operations</li>
+      <li>Managed Accenture as the implementation partner; coordinated integrations with UPS (3PL) and HSBC (banking)</li>
+      <li>Delivered full-scope SAP modules: OTC, P2P, SCM, EWM, FICO, MM, QM, and PP</li>
+      <li>Owned program governance, budget control, timeline management, and enterprise risk management</li>
+      <li>Ensured audit-ready delivery aligned with FDA, SOX, GRC, and Computer System Validation (CSV) standards</li>
+    </ul>
+
+    <p className="text-sm text-slate-600">
+      Outcome: Successful on-time, on-budget go-live with compliant, scalable SAP operations and stable post-production
+      performance across all three US entities.
+    </p>
+  </CardContent>
+</Card>
+
         <div className="grid md:grid-cols-2 gap-6 mt-6">
           <Card className="border border-slate-200/70 bg-white/80 backdrop-blur shadow-sm hover:shadow-md transition-all hover:-translate-y-0.5">
             <CardContent className="p-6">
