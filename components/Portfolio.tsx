@@ -535,7 +535,6 @@ export default function Portfolio() {
 	  "Governed change/release execution using ITIL-aligned controls (CAB/change approvals, verification gates, post-release validation), reducing integration-related production incidents by 15–20% and improving 	  operational stability post-release.",
 	  "Managed portfolio financials and resourcing across a $1.8M+ annual run + change budget, improving forecasting transparency and KPI-based delivery tracking.",
 	  "Led and developed a multidisciplinary team (14+) by setting clear accountabilities, improving delivery hygiene, and strengthening transition-to-operations practices.",
-	  ""
         ],
       },
       {
