@@ -123,8 +123,8 @@ function HomePage() {
 	  </h1>
 
           <p className="text-xl text-slate-700 max-w-4xl">
-            Senior Technical Program Manager with 12+ years building and running projects for product platforms, cloud
-            infrastructure, and AI-enabled execution.
+           PMP-certified Project Manager with 12+ years leading complex, multi-stream initiatives across data platforms, 
+	   integrations, analytics reporting, ERP ecosystems, and regulated operations and AI-enabled execution.
           </p>
 
           <p className="max-w-4xl text-slate-600">
