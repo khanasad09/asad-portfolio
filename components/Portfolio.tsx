@@ -572,7 +572,7 @@ export default function Portfolio() {
       { title: "SAP Certified Development Associate – ABAP NetWeaver 7.0", org: "SAP, Germany", year: "2011" },
     ];
 
-    const additional: string[] = ["Canadian PR", "Languages: English (Fluent), French (Beginner), Hindi (Fluent)"];
+    const additional: string[] = ["Canadian Permanent Resident", "Languages: English (Fluent), French (Beginner), Hindi (Fluent)"];
 
     return { experience, education, additional };
   }, []);
