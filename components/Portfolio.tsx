@@ -78,12 +78,6 @@ function Nav({ page, onNavigate }: { page: Page; onNavigate: (p: Page) => void }
             <span>LinkedIn</span>
           </a>
         </Button>
-        <Button asChild className="transition-transform hover:-translate-y-0.5">
-          <a href="mailto:khan.asad09@gmail.com" className="flex items-center gap-2">
-            <Mail className="h-4 w-4" aria-hidden="true" />
-            <span>Email</span>
-          </a>
-        </Button>
       </div>
     </nav>
   );
