@@ -113,7 +113,7 @@ function HomePage() {
           </div>
 
           <h1 className="text-5xl md:text-6xl font-bold leading-tight tracking-tight text-slate-900">
-            I bring a rare dual perspective from both technology consulting and in-house product delivery.
+            I bring a rare dual perspective from both technology consulting and in-house project/program management.
 	  </h1>
 
           <p className="text-xl text-slate-700 max-w-4xl">
