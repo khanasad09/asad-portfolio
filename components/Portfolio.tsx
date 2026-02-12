@@ -128,8 +128,7 @@ function HomePage() {
           </p>
 
           <p className="max-w-4xl text-slate-600">
-            I work at the intersection of engineering execution, platform reliability, and business outcomes—bringing a product
-            mindset to how teams plan, build, and ship.
+            Expert in end-to-end project delivery (charter → business case → requirements → workflow mapping → schedule/budget → RAID → governance → benefits realization), with strong capability in policy/process 		    standardization, audit-ready controls, and organization-wide change. Trusted partner to executives and cross-functional stakeholders (clinical/business/technical equivalents) to deliver measurable outcomes 	    through disciplined governance, clear decision-making, and high-quality documentation.
           </p>
         </div>
       </section>
